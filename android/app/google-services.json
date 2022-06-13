@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "425854926150",
+    "project_id": "einsteinacademy-4ec16",
+    "storage_bucket": "einsteinacademy-4ec16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425854926150:android:5f9e4810da1353812b3947",
+        "android_client_info": {
+          "package_name": "com.appstirr.einstienapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425854926150-sg4vavbndke5g59m50p5uekam5ieo6sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appstirr.einstienapp",
+            "certificate_hash": "a207a1edefbfe848ca2450d1911902a53563efb0"
+          }
+        },
+        {
+          "client_id": "425854926150-uebcu1rhnmmskaifec995va0r6o3q7ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjipYkRUPPpmj6scP642XQSIxYmaJwZzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425854926150-uebcu1rhnmmskaifec995va0r6o3q7ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
